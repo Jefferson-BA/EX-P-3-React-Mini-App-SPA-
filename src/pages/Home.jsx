@@ -23,10 +23,7 @@ function Home() {
 
   return (
     <section>
-      <div className="hero">
-        <h2>Dummy Data Dashboard</h2>
-        <p>Explora productos de prueba obtenidos desde una API pública.</p>
-      </div>
+      
 
       <h3 className="section-title">Productos destacados</h3>
 
