@@ -43,5 +43,5 @@ npm install
 
 npm run dev
 
-🔗 Deploy (Vercel / Netlify / GitHub Pages)	
+🔗 Deploy (Vercel / Netlify / GitHub Pages)	https://dummydat.netlify.app
 🎥 Video en YouTube 
